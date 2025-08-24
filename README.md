@@ -1,2 +1,2 @@
 # digit_recognition
-A project using ANN and CNN for street view housing number digit recognition
+This project involves recognizing street view housing number digits using artificial and convolutional neural networks.
